@@ -5,7 +5,7 @@ title: COMP680 Team 4
 ## Team Members
 - Mark Kaplan
 - Wei Lee
-- Timothy Park
+- ~~Timothy Park~~
 
 ## Team Number
 Team 4
