@@ -15,6 +15,7 @@ TBD
 
 ## Progress Reports
 - [Week 1](progress-reports/week_01.xlsx)
+- [Week 2](progress-reports/week_02.xlsx)
 
 ## Documentation
 Coming soon.
