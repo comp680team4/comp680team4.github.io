@@ -1,4 +1,3 @@
-
 ---
 title: COMP680 Team 4
 ---
@@ -17,6 +16,7 @@ TBD
 - [Week 1](progress-reports/week_01.xlsx)
 - [Week 2](progress-reports/week_02.xlsx)
 - [Week 3](progress-reports/week_03.xlsx)
+- [Week 4](progress-reports/week_04.xlsx)
 
 
 ## Deliverable
