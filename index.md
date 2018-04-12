@@ -20,6 +20,7 @@ TBD
 - [Week 5](progress-reports/week_05.xlsx)
 - [Week 6](progress-reports/week_06.xlsx)
 - [Week 7](progress-reports/week_07.xlsx)
+- [Week 8](progress-reports/week_08.xlsx)
 
 
 ## Deliverable
