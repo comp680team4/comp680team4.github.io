@@ -4,7 +4,7 @@ title: COMP680 Team 4
 
 ## Team Members
 - Mark Kaplan
-- Wei Lee
+- ~~Wei Lee~~
 
 ## Team Number
 Team 4
@@ -21,6 +21,7 @@ TBD
 - [Week 6](progress-reports/week_06.xlsx)
 - [Week 7](progress-reports/week_07.xlsx)
 - [Week 8](progress-reports/week_08.xlsx)
+- [Week 9](progress-reports/week_09.xlsx)
 
 
 ## Deliverable
